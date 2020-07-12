@@ -62,7 +62,7 @@ div.social i:hover {
 div.contact button {
     border: 2px solid #fff;
     padding: 7px 20px;
-    ;
+    border-radius: 8px;
     margin: 10px;
     background: transparent;
     color: #fff;
@@ -76,6 +76,7 @@ div.contact button {
 div.contact button:hover {
     background: #fff;
     color: #323840;
+
 }
 
 div.footer {
